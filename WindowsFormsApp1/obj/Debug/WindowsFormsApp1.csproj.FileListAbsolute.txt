@@ -1,0 +1,11 @@
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kseno\Downloads\UI_SQLDB-master\UI_SQLDB-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
